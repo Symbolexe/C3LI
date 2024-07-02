@@ -8,7 +8,7 @@ Allows you to search for SSL certificates associated with a domain using crt.sh 
 - [x] Option to output results to a file for easy sharing or further analysis.
 ## Usage
 ### Prerequisites
-1. Go installed on your system. If not, you can download it from golang.org.
+1. Go installed on your system. If not, you can download it from golang website.
 ### Installation
 1. Clone the repository to your local machine:
 
