@@ -1,5 +1,5 @@
 # C3LI
-allows you to search for SSL certificates associated with a domain using crt.sh and display the details including common name, issuer, expiration dates, and more.
+Allows you to search for SSL certificates associated with a domain using crt.sh and display the details including common name, issuer, expiration dates, and more.
 ## Features
 - [x] Fetches SSL certificates from crt.sh based on a specified domain.
 - [x] Displays certificate details such as common name, issuer name, serial number, validity dates, and fingerprints.
